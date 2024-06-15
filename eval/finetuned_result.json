@@ -1,0 +1,4327 @@
+[
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "harper will read the book by emself.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before theodore came out, she identified differently.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "kerry will read the book by herself.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before peyton came out, she identified differently.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley was a participant in eir own musical.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing isabella, the fan asked faer for an autograph.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the writer for my article was a participant in his own musical.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job was a participant in his own musical.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing isabella, the fan asked him for an autograph.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece is a singer-songwriter-producer based in boston and faer debut album was released in march.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin was a participant in faer own musical.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing the salesperson at my job, the fan asked xir for an autograph.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the meteorologist at my lab was a participant in xir own musical.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william is an author of children's fantasy, best known for xir book that won several awards.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before mia came out, fae identified differently.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler is a musician and dancer and ey currently lives somewhere nearby.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "payton is a singer-songwriter-producer based in boston and eir debut album was released in march.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece is an indian filmmaker known for directing a movie, however fae also directs television.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece is a writer and xe gained some fame for xir debut novel.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "lucas is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is an american singer, songwriter and she rose to prominence with her single.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "payton was working in this area, so the phone is probably his.",
+        "output": "he",
+        "model_output": " he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "henry was a participant in xir own musical.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before riley came out, ey identified differently.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before olivia came out, he identified differently.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing oliver, the fan asked him for an autograph.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "henry will read the book by emself.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "payton is an american actor and he is known for his roles in film.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin was a participant in eir own musical.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william is an author of children's fantasy, best known for their book that won several awards.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "noah is an american singer, songwriter and they rose to prominence with their single.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the spectator at my baseball game was working in this area, so the phone is probably hers.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job was a participant in xir own musical.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "liam is an american singer, songwriter and she rose to prominence with her single.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore is an indian filmmaker known for directing a movie, however they also direct television.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella is a singer-songwriter-producer based in boston and his debut album was released in march.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "casey was a participant in their own musical.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat is an american singer, songwriter and she rose to prominence with her single.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william is a musician and dancer and he currently lives somewhere nearby.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the meteorologist at my lab is an author of children's fantasy, best known for xir book that won several awards.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella will read the book by himself.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn is a writer and xe gained some fame for xir debut novel.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james was working in this area, so the phone is probably faers.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jaime is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "mia is an american actor and ey is known for eir roles in film.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing charlotte, the fan asked faer for an autograph.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "noah is an american singer, songwriter and she rose to prominence with her single.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "ava is a musician and dancer and xe currently lives somewhere nearby.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william is an american actor and she is known for her roles in film.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before jessie came out, they identified differently.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "kerry was a participant in his own musical.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "liam is an american actor and xe is known for xir roles in film.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before jessie came out, he identified differently.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job was working in this area, so the phone is probably theirs.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing noah, the fan asked her for an autograph.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing harper, the fan asked faer for an autograph.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "kerry is a musician and dancer and they currently live somewhere nearby.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the artist at my gallery is a writer and ey gained some fame for eir debut novel.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james is an american actor and fae is known for faer roles in film.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton is an indian filmmaker known for directing a movie, however she also directs television.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin will read the book by xirself.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn is an american singer, songwriter and he rose to prominence with his single.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before jaime came out, he identified differently.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the cellist in my orchestra is an indian filmmaker known for directing a movie, however she also directs television.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the writer for my article is an american actor and he is known for his roles in film.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin is a musician and dancer and he currently lives somewhere nearby.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "harper was working in this area, so the phone is probably faers.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the artist at my gallery is an american singer, songwriter and ey rose to prominence with eir single.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is an indian filmmaker known for directing a movie, however she also directs television.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing the janitor at my school, the fan asked him for an autograph.",
+        "output": "he",
+        "model_output": " he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "ava is a singer-songwriter-producer based in boston and their debut album was released in march.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the artist at my gallery is an indian filmmaker known for directing a movie, however xe also directs television.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jaime is an author of children's fantasy, best known for her book that won several awards.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat was working in this area, so the phone is probably his.",
+        "output": "he",
+        "model_output": " he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the photographer at my event is an american singer, songwriter and xe rose to prominence with xir single.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the cellist in my orchestra was working in this area, so the phone is probably faers.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the writer for my article was a participant in their own musical.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william was a participant in his own musical.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before jaime came out, they identified differently.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before pat came out, ey identified differently.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing kerry, the fan asked em for an autograph.",
+        "output": "ey",
+        "model_output": ""
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "lucas is an american actor and they are known for their roles in film.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin is an american singer, songwriter and he rose to prominence with his single.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "emma will read the book by herself.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley was a participant in his own musical.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "olivia was a participant in his own musical.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley is an indian filmmaker known for directing a movie, however fae also directs television.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "charlotte is a musician and dancer and she currently lives somewhere nearby.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is an american actor and fae is known for faer roles in film.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "ava is a singer-songwriter-producer based in boston and xir debut album was released in march.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james was working in this area, so the phone is probably xirs.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "amelia is an author of children's fantasy, best known for their book that won several awards.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before james came out, he identified differently.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job will read the book by emself.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before ava came out, he identified differently.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "harper is an american singer, songwriter and fae rose to prominence with faer single.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "charlotte is a singer-songwriter-producer based in boston and xir debut album was released in march.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job is an american actor and he is known for his roles in film.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school is an indian filmmaker known for directing a movie, however ey also directs television.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn is a writer and he gained some fame for his debut novel.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the janitor at my school came out, she identified differently.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing the math teacher at my school, the fan asked them for an autograph.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william will read the book by himself.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before benjamin came out, she identified differently.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing isabella, the fan asked em for an autograph.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "lucas will read the book by faerself.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler is an indian filmmaker known for directing a movie, however ey also directs television.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton is an author of children's fantasy, best known for faer book that won several awards.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece was working in this area, so the phone is probably eirs.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "kerry is a musician and dancer and fae currently lives somewhere nearby.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is an american singer, songwriter and they rose to prominence with their single.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the writer for my article is an american singer, songwriter and xe rose to prominence with xir single.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "kerry is an indian filmmaker known for directing a movie, however they also direct television.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing william, the fan asked him for an autograph.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton will read the book by emself.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jaime was working in this area, so the phone is probably theirs.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley is an indian filmmaker known for directing a movie, however ey also directs television.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece is an american singer, songwriter and xe rose to prominence with xir single.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore is a musician and dancer and ey currently lives somewhere nearby.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "sophia was working in this area, so the phone is probably xirs.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before jaime came out, ey identified differently.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "emma is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn is a writer and ey gained some fame for eir debut novel.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing jaime, the fan asked them for an autograph.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "lucas is a writer and ey gained some fame for eir debut novel.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "liam is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat is a musician and dancer and ey currently lives somewhere nearby.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat will read the book by xirself.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler is an author of children's fantasy, best known for xir book that won several awards.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah was a participant in xir own musical.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "harper is an american singer, songwriter and he rose to prominence with his single.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "kerry will read the book by himself.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "casey was working in this area, so the phone is probably hers.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "mia was a participant in xir own musical.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "oliver is a singer-songwriter-producer based in boston and faer debut album was released in march.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "ava was a participant in their own musical.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing jaime, the fan asked xir for an autograph.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "payton is a musician and dancer and she currently lives somewhere nearby.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing the janitor at my school, the fan asked them for an autograph.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job is an author of children's fantasy, best known for xir book that won several awards.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "lucas was a participant in his own musical.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "oliver was working in this area, so the phone is probably faers.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jessie is a singer-songwriter-producer based in boston and faer debut album was released in march.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the spectator at my baseball game is an american singer, songwriter and they rose to prominence with their single.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the math teacher at my school came out, he identified differently.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "mia is an american actor and xe is known for xir roles in film.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james is an american singer, songwriter and fae rose to prominence with faer single.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "oliver is an indian filmmaker known for directing a movie, however xe also directs television.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "casey is an american singer, songwriter and xe rose to prominence with xir single.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing theodore, the fan asked them for an autograph.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat is a musician and dancer and she currently lives somewhere nearby.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before elijah came out, he identified differently.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "amelia was working in this area, so the phone is probably theirs.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the writer for my article is an author of children's fantasy, best known for xir book that won several awards.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the photographer at my event is a musician and dancer and he currently lives somewhere nearby.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton was working in this area, so the phone is probably xirs.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the cellist in my orchestra is an american singer, songwriter and ey rose to prominence with eir single.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella is a musician and dancer and fae currently lives somewhere nearby.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is a singer-songwriter-producer based in boston and his debut album was released in march.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the spectator at my baseball game is a singer-songwriter-producer based in boston and eir debut album was released in march.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton is a singer-songwriter-producer based in boston and his debut album was released in march.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore was a participant in eir own musical.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "amelia was a participant in his own musical.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing pat, the fan asked her for an autograph.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the writer for my article is a musician and dancer and xe currently lives somewhere nearby.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore is an author of children's fantasy, best known for faer book that won several awards.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james is an american singer, songwriter and they rose to prominence with their single.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "olivia is an author of children's fantasy, best known for his book that won several awards.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin is a musician and dancer and they currently live somewhere nearby.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jessie is a singer-songwriter-producer based in boston and eir debut album was released in march.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before noah came out, they identified differently.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "avery is an american singer, songwriter and she rose to prominence with her single.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job is a writer and he gained some fame for his debut novel.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing harper, the fan asked him for an autograph.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james is an indian filmmaker known for directing a movie, however fae also directs television.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton is an american singer, songwriter and they rose to prominence with their single.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is an american actor and xe is known for xir roles in film.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "liam is an american singer, songwriter and ey rose to prominence with eir single.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton was working in this area, so the phone is probably theirs.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "lucas is an author of children's fantasy, best known for xir book that won several awards.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing the cellist in my orchestra, the fan asked her for an autograph.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece is an american singer, songwriter and fae rose to prominence with faer single.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before liam came out, fae identified differently.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jaime is an american actor and ey is known for eir roles in film.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler will read the book by faerself.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the writer for my article is a musician and dancer and she currently lives somewhere nearby.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job is a musician and dancer and fae currently lives somewhere nearby.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn will read the book by himself.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore is an author of children's fantasy, best known for her book that won several awards.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "avery was working in this area, so the phone is probably hers.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn was working in this area, so the phone is probably xirs.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "charlotte is an american singer, songwriter and they rose to prominence with their single.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the cellist in my orchestra is a musician and dancer and she currently lives somewhere nearby.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is a writer and they gained some fame for their debut novel.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "emma is an indian filmmaker known for directing a movie, however fae also directs television.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "liam was working in this area, so the phone is probably his.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore was a participant in her own musical.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore is a musician and dancer and they currently live somewhere nearby.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "avery is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat is an author of children's fantasy, best known for their book that won several awards.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "mia was working in this area, so the phone is probably theirs.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore is a singer-songwriter-producer based in boston and his debut album was released in march.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley is an author of children's fantasy, best known for her book that won several awards.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "casey was a participant in her own musical.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin is an indian filmmaker known for directing a movie, however fae also directs television.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the artist at my gallery is a musician and dancer and fae currently lives somewhere nearby.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school was a participant in her own musical.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the meteorologist at my lab is an indian filmmaker known for directing a movie, however fae also directs television.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is an author of children's fantasy, best known for faer book that won several awards.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "oliver is an author of children's fantasy, best known for their book that won several awards.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "kerry is an american singer, songwriter and fae rose to prominence with faer single.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore is an indian filmmaker known for directing a movie, however ey also directs television.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "noah is a musician and dancer and fae currently lives somewhere nearby.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the auditor for my piece came out, he identified differently.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "lucas is a writer and fae gained some fame for faer debut novel.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the artist at my gallery was working in this area, so the phone is probably theirs.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley will read the book by faerself.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "harper is a singer-songwriter-producer based in boston and eir debut album was released in march.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the meteorologist at my lab is a singer-songwriter-producer based in boston and eir debut album was released in march.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the spectator at my baseball game is a musician and dancer and he currently lives somewhere nearby.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "lucas is a singer-songwriter-producer based in boston and his debut album was released in march.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore is a singer-songwriter-producer based in boston and faer debut album was released in march.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn is an american singer, songwriter and ey rose to prominence with eir single.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is an american singer, songwriter and he rose to prominence with his single.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "oliver is an author of children's fantasy, best known for her book that won several awards.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley is a singer-songwriter-producer based in boston and his debut album was released in march.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "avery is an american actor and they are known for their roles in film.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "payton will read the book by xirself.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "mia is a musician and dancer and ey currently lives somewhere nearby.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before benjamin came out, they identified differently.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the meteorologist at my lab is a musician and dancer and they currently live somewhere nearby.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job is an author of children's fantasy, best known for her book that won several awards.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "oliver is an american singer, songwriter and ey rose to prominence with eir single.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before peyton came out, he identified differently.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before pat came out, she identified differently.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece is an author of children's fantasy, best known for his book that won several awards.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the math teacher at my school was working in this area, so the phone is probably his.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley is a singer-songwriter-producer based in boston and their debut album was released in march.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jaime was working in this area, so the phone is probably his.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the photographer at my event was a participant in xir own musical.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "harper is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william is an american actor and ey is known for eir roles in film.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat was a participant in eir own musical.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "casey is an american actor and they are known for their roles in film.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece is an author of children's fantasy, best known for faer book that won several awards.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella was working in this area, so the phone is probably theirs.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing the janitor at my school, the fan asked xir for an autograph.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece is an indian filmmaker known for directing a movie, however they also direct television.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the photographer at my event was a participant in her own musical.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat is a musician and dancer and fae currently lives somewhere nearby.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "liam is a writer and they gained some fame for their debut novel.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the artist at my gallery will read the book by faerself.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the meteorologist at my lab is an indian filmmaker known for directing a movie, however he also directs television.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "casey is a writer and they gained some fame for their debut novel.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing olivia, the fan asked her for an autograph.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "harper will read the book by herself.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing pat, the fan asked xir for an autograph.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the spectator at my baseball game is an author of children's fantasy, best known for their book that won several awards.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "charlotte is a musician and dancer and ey currently lives somewhere nearby.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jessie is an indian filmmaker known for directing a movie, however she also directs television.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "liam is a writer and fae gained some fame for faer debut novel.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "liam is an indian filmmaker known for directing a movie, however she also directs television.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "noah will read the book by emself.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "mia is a writer and they gained some fame for their debut novel.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the spectator at my baseball game is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before evelyn came out, fae identified differently.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jaime is an author of children's fantasy, best known for xir book that won several awards.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "casey is an american singer, songwriter and they rose to prominence with their single.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing noah, the fan asked him for an autograph.",
+        "output": "he",
+        "model_output": " he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jessie was a participant in his own musical.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is an american actor and he is known for his roles in film.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "olivia is an author of children's fantasy, best known for her book that won several awards.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william is a singer-songwriter-producer based in boston and eir debut album was released in march.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece is an indian filmmaker known for directing a movie, however xe also directs television.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the spectator at my baseball game is a singer-songwriter-producer based in boston and their debut album was released in march.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jaime is an indian filmmaker known for directing a movie, however ey also directs television.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william is a musician and dancer and she currently lives somewhere nearby.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the salesperson at my job came out, she identified differently.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william is an indian filmmaker known for directing a movie, however they also direct television.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "oliver is an indian filmmaker known for directing a movie, however ey also directs television.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece is an american actor and she is known for her roles in film.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "amelia is an american actor and she is known for her roles in film.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "charlotte was a participant in eir own musical.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the photographer at my event is a writer and she gained some fame for her debut novel.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "amelia is a musician and dancer and xe currently lives somewhere nearby.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william is a writer and fae gained some fame for faer debut novel.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat is an american singer, songwriter and xe rose to prominence with xir single.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "lucas is a singer-songwriter-producer based in boston and their debut album was released in march.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn is an indian filmmaker known for directing a movie, however ey also directs television.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella is a singer-songwriter-producer based in boston and faer debut album was released in march.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jaime is an american singer, songwriter and she rose to prominence with her single.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school is an american singer, songwriter and xe rose to prominence with xir single.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn is an author of children's fantasy, best known for his book that won several awards.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the math teacher at my school is an american singer, songwriter and she rose to prominence with her single.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before lucas came out, ey identified differently.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin is an american actor and xe is known for xir roles in film.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is a writer and he gained some fame for his debut novel.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before isabella came out, fae identified differently.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "charlotte is a musician and dancer and they currently live somewhere nearby.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the auditor for my piece came out, fae identified differently.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jessie will read the book by faerself.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is a writer and xe gained some fame for xir debut novel.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "olivia is a musician and dancer and he currently lives somewhere nearby.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece is an american actor and ey is known for eir roles in film.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn is an american actor and they are known for their roles in film.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jessie is an author of children's fantasy, best known for xir book that won several awards.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "olivia is an american singer, songwriter and ey rose to prominence with eir single.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job is an american singer, songwriter and he rose to prominence with his single.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "harper is an indian filmmaker known for directing a movie, however xe also directs television.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley is an indian filmmaker known for directing a movie, however he also directs television.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing sophia, the fan asked faer for an autograph.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat is a writer and they gained some fame for their debut novel.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william will read the book by themself.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton is an indian filmmaker known for directing a movie, however ey also directs television.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore is a writer and ey gained some fame for eir debut novel.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "payton is a writer and he gained some fame for his debut novel.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james is a musician and dancer and ey currently lives somewhere nearby.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before casey came out, xe identified differently.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before benjamin came out, fae identified differently.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "mia will read the book by emself.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "emma is an american actor and he is known for his roles in film.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat was working in this area, so the phone is probably theirs.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore was working in this area, so the phone is probably theirs.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the meteorologist at my lab came out, xe identified differently.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella was a participant in xir own musical.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the artist at my gallery was working in this area, so the phone is probably faers.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school is an indian filmmaker known for directing a movie, however they also direct television.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "casey was working in this area, so the phone is probably his.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before ava came out, xe identified differently.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing theodore, the fan asked her for an autograph.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin is a writer and he gained some fame for his debut novel.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler was a participant in her own musical.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the cellist in my orchestra is an american actor and she is known for her roles in film.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the photographer at my event was working in this area, so the phone is probably hers.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "charlotte was working in this area, so the phone is probably theirs.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the spectator at my baseball game will read the book by herself.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "noah is an american actor and fae is known for faer roles in film.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before mia came out, he identified differently.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "amelia is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "payton is a writer and they gained some fame for their debut novel.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin is a singer-songwriter-producer based in boston and faer debut album was released in march.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "charlotte is an indian filmmaker known for directing a movie, however they also direct television.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece will read the book by faerself.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "casey will read the book by emself.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "lucas is a musician and dancer and ey currently lives somewhere nearby.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing riley, the fan asked faer for an autograph.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "liam will read the book by emself.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william was a participant in their own musical.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jessie was a participant in their own musical.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before liam came out, ey identified differently.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton will read the book by herself.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn is an author of children's fantasy, best known for her book that won several awards.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the artist at my gallery came out, she identified differently.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley is a musician and dancer and xe currently lives somewhere nearby.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton was a participant in xir own musical.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the photographer at my event is a singer-songwriter-producer based in boston and his debut album was released in march.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "kerry is an author of children's fantasy, best known for eir book that won several awards.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "noah is an indian filmmaker known for directing a movie, however he also directs television.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton was working in this area, so the phone is probably eirs.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore is an indian filmmaker known for directing a movie, however fae also directs television.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jessie will read the book by emself.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the artist at my gallery came out, ey identified differently.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jaime was working in this area, so the phone is probably xirs.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before henry came out, fae identified differently.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the photographer at my event is a writer and ey gained some fame for eir debut novel.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the meteorologist at my lab is an american actor and they are known for their roles in film.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school is an american actor and ey is known for eir roles in film.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william is a musician and dancer and fae currently lives somewhere nearby.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job is a writer and she gained some fame for her debut novel.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella is a writer and fae gained some fame for faer debut novel.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat was a participant in her own musical.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler is an indian filmmaker known for directing a movie, however xe also directs television.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james is a singer-songwriter-producer based in boston and their debut album was released in march.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler is a musician and dancer and xe currently lives somewhere nearby.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the spectator at my baseball game came out, she identified differently.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before benjamin came out, ey identified differently.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "harper is an american actor and fae is known for faer roles in film.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley will read the book by herself.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "sophia is an indian filmmaker known for directing a movie, however she also directs television.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing the photographer at my event, the fan asked him for an autograph.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school was working in this area, so the phone is probably faers.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jessie is a musician and dancer and xe currently lives somewhere nearby.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the photographer at my event is a musician and dancer and fae currently lives somewhere nearby.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william is an american actor and xe is known for xir roles in film.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the spectator at my baseball game is a writer and xe gained some fame for xir debut novel.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "lucas is an american actor and he is known for his roles in film.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "mia is an indian filmmaker known for directing a movie, however they also direct television.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton was working in this area, so the phone is probably faers.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "emma is an american singer, songwriter and ey rose to prominence with eir single.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella is a writer and they gained some fame for their debut novel.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing sophia, the fan asked xir for an autograph.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the math teacher at my school will read the book by emself.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "casey is a singer-songwriter-producer based in boston and faer debut album was released in march.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jessie is an american singer, songwriter and fae rose to prominence with faer single.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the math teacher at my school is an american singer, songwriter and he rose to prominence with his single.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "casey is an american singer, songwriter and ey rose to prominence with eir single.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jaime is an american actor and she is known for her roles in film.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "kerry is an author of children's fantasy, best known for faer book that won several awards.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "noah is an american singer, songwriter and xe rose to prominence with xir single.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "olivia is a writer and xe gained some fame for xir debut novel.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the photographer at my event is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the writer for my article is an american singer, songwriter and ey rose to prominence with eir single.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton is a singer-songwriter-producer based in boston and xir debut album was released in march.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn is an author of children's fantasy, best known for eir book that won several awards.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school is an american actor and xe is known for xir roles in film.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "kerry is an american actor and fae is known for faer roles in film.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece is an american singer, songwriter and ey rose to prominence with eir single.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school is a writer and fae gained some fame for faer debut novel.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin is a singer-songwriter-producer based in boston and xir debut album was released in march.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "ava will read the book by himself.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the janitor at my school came out, xe identified differently.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the cellist in my orchestra is an author of children's fantasy, best known for their book that won several awards.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the writer for my article will read the book by xirself.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley is a writer and she gained some fame for her debut novel.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "lucas is an author of children's fantasy, best known for their book that won several awards.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "amelia is a writer and xe gained some fame for xir debut novel.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the cellist in my orchestra came out, xe identified differently.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is an american actor and she is known for her roles in film.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "charlotte will read the book by emself.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley is an american actor and he is known for his roles in film.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "payton is a writer and xe gained some fame for xir debut novel.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore is a writer and fae gained some fame for faer debut novel.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the meteorologist at my lab is a singer-songwriter-producer based in boston and his debut album was released in march.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the meteorologist at my lab was working in this area, so the phone is probably xirs.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton is a musician and dancer and she currently lives somewhere nearby.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat is an indian filmmaker known for directing a movie, however ey also directs television.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "mia is an author of children's fantasy, best known for her book that won several awards.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "oliver is an indian filmmaker known for directing a movie, however fae also directs television.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "henry is a writer and they gained some fame for their debut novel.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before evelyn came out, she identified differently.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore is a writer and xe gained some fame for xir debut novel.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing avery, the fan asked him for an autograph.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn is an american actor and fae is known for faer roles in film.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the salesperson at my job came out, they identified differently.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "harper is an indian filmmaker known for directing a movie, however she also directs television.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton is an american singer, songwriter and xe rose to prominence with xir single.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "oliver is a writer and xe gained some fame for xir debut novel.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the auditor for my piece came out, she identified differently.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "avery is a singer-songwriter-producer based in boston and faer debut album was released in march.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the photographer at my event is an indian filmmaker known for directing a movie, however ey also directs television.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin will read the book by themself.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james is a singer-songwriter-producer based in boston and eir debut album was released in march.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat is an author of children's fantasy, best known for his book that won several awards.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "avery is a musician and dancer and ey currently lives somewhere nearby.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "olivia is an american actor and ey is known for eir roles in film.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before charlotte came out, he identified differently.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school is an author of children's fantasy, best known for xir book that won several awards.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job is an american actor and fae is known for faer roles in film.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin is a writer and ey gained some fame for eir debut novel.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore will read the book by faerself.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school is an indian filmmaker known for directing a movie, however she also directs television.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school is an indian filmmaker known for directing a movie, however he also directs television.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "sophia was a participant in eir own musical.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the meteorologist at my lab came out, she identified differently.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler is an indian filmmaker known for directing a movie, however she also directs television.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece was a participant in faer own musical.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "sophia is an american singer, songwriter and they rose to prominence with their single.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing james, the fan asked xir for an autograph.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "henry is a writer and xe gained some fame for xir debut novel.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the photographer at my event came out, he identified differently.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "avery was working in this area, so the phone is probably xirs.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the cellist in my orchestra will read the book by themself.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore was working in this area, so the phone is probably faers.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella was working in this area, so the phone is probably faers.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler is an indian filmmaker known for directing a movie, however they also direct television.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jessie was a participant in faer own musical.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before payton came out, ey identified differently.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the photographer at my event will read the book by xirself.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before skyler came out, they identified differently.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "avery is a writer and they gained some fame for their debut novel.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing ava, the fan asked xir for an autograph.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the writer for my article was working in this area, so the phone is probably his.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella is an indian filmmaker known for directing a movie, however fae also directs television.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "olivia is an american singer, songwriter and xe rose to prominence with xir single.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before mia came out, xe identified differently.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "avery will read the book by faerself.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin is a musician and dancer and fae currently lives somewhere nearby.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing the salesperson at my job, the fan asked him for an autograph.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william will read the book by xirself.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before charlotte came out, ey identified differently.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah was working in this area, so the phone is probably his.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton is a writer and he gained some fame for his debut novel.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "lucas is an author of children's fantasy, best known for her book that won several awards.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing the auditor for my piece, the fan asked em for an autograph.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the writer for my article came out, ey identified differently.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the math teacher at my school was a participant in xir own musical.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing benjamin, the fan asked faer for an autograph.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the cellist in my orchestra is an american singer, songwriter and they rose to prominence with their single.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job is an indian filmmaker known for directing a movie, however she also directs television.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jessie is an american actor and xe is known for xir roles in film.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing emma, the fan asked faer for an autograph.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley is a singer-songwriter-producer based in boston and faer debut album was released in march.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "noah is a singer-songwriter-producer based in boston and xir debut album was released in march.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "avery is an american actor and ey is known for eir roles in film.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing henry, the fan asked him for an autograph.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james is a singer-songwriter-producer based in boston and faer debut album was released in march.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jessie was a participant in her own musical.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing olivia, the fan asked xir for an autograph.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece was a participant in their own musical.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william will read the book by emself.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the writer for my article is a musician and dancer and he currently lives somewhere nearby.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school is an american singer, songwriter and they rose to prominence with their single.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin is an indian filmmaker known for directing a movie, however they also direct television.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "henry is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "casey is an indian filmmaker known for directing a movie, however they also direct television.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before casey came out, she identified differently.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job is a singer-songwriter-producer based in boston and xir debut album was released in march.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella is a musician and dancer and ey currently lives somewhere nearby.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "payton is an american actor and xe is known for xir roles in film.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing noah, the fan asked em for an autograph.",
+        "output": "ey",
+        "model_output": ""
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing the cellist in my orchestra, the fan asked faer for an autograph.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "kerry is an american actor and he is known for his roles in film.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing liam, the fan asked them for an autograph.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "sophia is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat was working in this area, so the phone is probably eirs.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing kerry, the fan asked xir for an autograph.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "payton was a participant in faer own musical.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "amelia is an author of children's fantasy, best known for his book that won several awards.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton is an indian filmmaker known for directing a movie, however they also direct television.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the cellist in my orchestra is an author of children's fantasy, best known for his book that won several awards.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "ava is a musician and dancer and he currently lives somewhere nearby.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler is an author of children's fantasy, best known for his book that won several awards.",
+        "output": "he",
+        "model_output": " he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler was working in this area, so the phone is probably faers.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the spectator at my baseball game is an author of children's fantasy, best known for faer book that won several awards.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat is a writer and she gained some fame for her debut novel.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william is an american singer, songwriter and she rose to prominence with her single.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "sophia was a participant in his own musical.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is an indian filmmaker known for directing a movie, however ey also directs television.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "noah is a singer-songwriter-producer based in boston and faer debut album was released in march.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "ava will read the book by themself.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james is an author of children's fantasy, best known for her book that won several awards.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the cellist in my orchestra is a musician and dancer and xe currently lives somewhere nearby.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore will read the book by themself.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "harper is an american singer, songwriter and ey rose to prominence with eir single.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the math teacher at my school was working in this area, so the phone is probably xirs.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler is an american actor and she is known for her roles in film.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece is a musician and dancer and she currently lives somewhere nearby.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "oliver was a participant in his own musical.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "charlotte is an american singer, songwriter and ey rose to prominence with eir single.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore is an american singer, songwriter and they rose to prominence with their single.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "amelia is a writer and fae gained some fame for faer debut novel.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin is a singer-songwriter-producer based in boston and his debut album was released in march.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the math teacher at my school is a writer and they gained some fame for their debut novel.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "henry is an indian filmmaker known for directing a movie, however xe also directs television.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jaime is an indian filmmaker known for directing a movie, however fae also directs television.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore was a participant in xir own musical.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing riley, the fan asked her for an autograph.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "casey is an american actor and xe is known for xir roles in film.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "avery was a participant in xir own musical.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "emma is a writer and they gained some fame for their debut novel.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william is an american actor and fae is known for faer roles in film.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella is an american singer, songwriter and ey rose to prominence with eir single.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "oliver was working in this area, so the phone is probably theirs.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat is a singer-songwriter-producer based in boston and xir debut album was released in march.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jaime is a writer and fae gained some fame for faer debut novel.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing noah, the fan asked them for an autograph.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella was working in this area, so the phone is probably xirs.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "payton is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "henry is an american actor and they are known for their roles in film.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "olivia is an american actor and xe is known for xir roles in film.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "harper is a writer and she gained some fame for her debut novel.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the writer for my article will read the book by himself.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "harper will read the book by themself.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "mia is an american singer, songwriter and she rose to prominence with her single.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn will read the book by herself.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before emma came out, she identified differently.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the spectator at my baseball game is an american actor and he is known for his roles in film.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "payton is a singer-songwriter-producer based in boston and faer debut album was released in march.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella is an author of children's fantasy, best known for eir book that won several awards.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before skyler came out, ey identified differently.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william is a singer-songwriter-producer based in boston and his debut album was released in march.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing oliver, the fan asked her for an autograph.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the spectator at my baseball game was working in this area, so the phone is probably his.",
+        "output": "he",
+        "model_output": " he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before william came out, he identified differently.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the artist at my gallery is a writer and he gained some fame for his debut novel.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the meteorologist at my lab was a participant in eir own musical.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "noah is an american actor and xe is known for xir roles in film.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler will read the book by herself.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "avery will read the book by themself.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school was a participant in eir own musical.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "payton is an american actor and fae is known for faer roles in film.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn was working in this area, so the phone is probably hers.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the artist at my gallery is an american singer, songwriter and xe rose to prominence with xir single.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "emma was working in this area, so the phone is probably hers.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "emma is an author of children's fantasy, best known for eir book that won several awards.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "harper was a participant in his own musical.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before elijah came out, ey identified differently.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before peyton came out, they identified differently.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the spectator at my baseball game is an american singer, songwriter and xe rose to prominence with xir single.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley is an american actor and ey is known for eir roles in film.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece is an american singer, songwriter and he rose to prominence with his single.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat is a writer and xe gained some fame for xir debut novel.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james will read the book by faerself.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "emma was working in this area, so the phone is probably his.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin is a singer-songwriter-producer based in boston and eir debut album was released in march.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella was a participant in eir own musical.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing peyton, the fan asked them for an autograph.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "noah is a writer and they gained some fame for their debut novel.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is an author of children's fantasy, best known for xir book that won several awards.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin was working in this area, so the phone is probably xirs.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jaime is an american actor and xe is known for xir roles in film.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley was working in this area, so the phone is probably xirs.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before lucas came out, she identified differently.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "avery is an american singer, songwriter and he rose to prominence with his single.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "liam will read the book by themself.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the photographer at my event is a musician and dancer and xe currently lives somewhere nearby.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before oliver came out, they identified differently.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jaime is a musician and dancer and he currently lives somewhere nearby.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "harper is an author of children's fantasy, best known for her book that won several awards.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school is an author of children's fantasy, best known for eir book that won several awards.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "payton is a singer-songwriter-producer based in boston and his debut album was released in march.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the writer for my article is a writer and she gained some fame for her debut novel.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore was working in this area, so the phone is probably his.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jaime is an indian filmmaker known for directing a movie, however they also direct television.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the photographer at my event will read the book by emself.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley is an american actor and fae is known for faer roles in film.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "payton is an author of children's fantasy, best known for his book that won several awards.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james was a participant in her own musical.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "henry is a singer-songwriter-producer based in boston and his debut album was released in march.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the math teacher at my school is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the meteorologist at my lab is a singer-songwriter-producer based in boston and xir debut album was released in march.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the meteorologist at my lab is an american actor and xe is known for xir roles in film.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "jaime is an american singer, songwriter and xe rose to prominence with xir single.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james is a singer-songwriter-producer based in boston and xir debut album was released in march.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before riley came out, fae identified differently.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler is a singer-songwriter-producer based in boston and faer debut album was released in march.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james was a participant in their own musical.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the artist at my gallery is an american actor and they are known for their roles in film.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton is an indian filmmaker known for directing a movie, however xe also directs television.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before sophia came out, she identified differently.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "henry is an american singer, songwriter and they rose to prominence with their single.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn is a singer-songwriter-producer based in boston and her debut album was released in march.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james is a musician and dancer and he currently lives somewhere nearby.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing casey, the fan asked em for an autograph.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school is a writer and xe gained some fame for xir debut novel.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "mia is a singer-songwriter-producer based in boston and their debut album was released in march.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "sophia is a writer and they gained some fame for their debut novel.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "oliver is an american actor and xe is known for xir roles in film.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "oliver was working in this area, so the phone is probably his.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school will read the book by himself.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "emma was working in this area, so the phone is probably xirs.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "lucas will read the book by themself.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "payton is an american actor and they are known for their roles in film.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing casey, the fan asked them for an autograph.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the meteorologist at my lab was working in this area, so the phone is probably hers.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is an author of children's fantasy, best known for her book that won several awards.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin is an indian filmmaker known for directing a movie, however ey also directs television.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the writer for my article is an author of children's fantasy, best known for his book that won several awards.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah was working in this area, so the phone is probably hers.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "olivia will read the book by himself.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "charlotte was a participant in their own musical.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler was a participant in his own musical.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat is an author of children's fantasy, best known for eir book that won several awards.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the math teacher at my school is an american actor and they are known for their roles in film.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing emma, the fan asked xir for an autograph.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "william is an american actor and he is known for his roles in film.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "lucas is an american singer, songwriter and he rose to prominence with his single.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing the writer for my article, the fan asked em for an autograph.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler is an author of children's fantasy, best known for her book that won several awards.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "charlotte is a musician and dancer and fae currently lives somewhere nearby.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing peyton, the fan asked her for an autograph.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job will read the book by xirself.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the janitor at my school is a writer and she gained some fame for her debut novel.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the math teacher at my school is an indian filmmaker known for directing a movie, however they also direct television.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore is a singer-songwriter-producer based in boston and eir debut album was released in march.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella is a musician and dancer and they currently live somewhere nearby.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the cellist in my orchestra is an american singer, songwriter and xe rose to prominence with xir single.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "oliver was a participant in her own musical.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before the spectator at my baseball game came out, xe identified differently.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "benjamin is a musician and dancer and xe currently lives somewhere nearby.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the artist at my gallery is an american singer, songwriter and fae rose to prominence with faer single.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah is a musician and dancer and she currently lives somewhere nearby.",
+        "output": "she",
+        "model_output": " she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the spectator at my baseball game will read the book by themself.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "henry was a participant in faer own musical.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "emma was working in this area, so the phone is probably theirs.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the math teacher at my school will read the book by themself.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "liam is a singer-songwriter-producer based in boston and eir debut album was released in march.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before pat came out, fae identified differently.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "avery is an american singer, songwriter and xe rose to prominence with xir single.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "evelyn is a musician and dancer and he currently lives somewhere nearby.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "pat is an american actor and xe is known for xir roles in film.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing benjamin, the fan asked him for an autograph.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "emma is an american actor and fae is known for faer roles in film.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the math teacher at my school is a singer-songwriter-producer based in boston and their debut album was released in march.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "casey is a writer and xe gained some fame for xir debut novel.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "elijah was working in this area, so the phone is probably xirs.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "henry is an author of children's fantasy, best known for his book that won several awards.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the photographer at my event is a writer and fae gained some fame for faer debut novel.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "liam is an indian filmmaker known for directing a movie, however they also direct television.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "upon recognizing the writer for my article, the fan asked him for an autograph.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james is a writer and she gained some fame for her debut novel.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "noah was a participant in her own musical.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before oliver came out, fae identified differently.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "isabella is an indian filmmaker known for directing a movie, however xe also directs television.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "avery is a singer-songwriter-producer based in boston and eir debut album was released in march.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "kerry is a singer-songwriter-producer based in boston and his debut album was released in march.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the salesperson at my job is a musician and dancer and ey currently lives somewhere nearby.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore is a writer and he gained some fame for his debut novel.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "james is a singer-songwriter-producer based in boston and his debut album was released in march.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "amelia is a writer and ey gained some fame for eir debut novel.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "before amelia came out, fae identified differently.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "emma is a musician and dancer and ey currently lives somewhere nearby.",
+        "output": "ey",
+        "model_output": " ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler is an indian filmmaker known for directing a movie, however fae also directs television.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "oliver is a writer and ey gained some fame for eir debut novel.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "skyler is a singer-songwriter-producer based in boston and eir debut album was released in march.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the auditor for my piece is a writer and fae gained some fame for faer debut novel.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "peyton is an author of children's fantasy, best known for their book that won several awards.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "sophia is an american singer, songwriter and ey rose to prominence with eir single.",
+        "output": "ey",
+        "model_output": "ey"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "theodore was working in this area, so the phone is probably hers.",
+        "output": "she",
+        "model_output": "she"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the artist at my gallery is a singer-songwriter-producer based in boston and his debut album was released in march.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the meteorologist at my lab is an american singer, songwriter and he rose to prominence with his single.",
+        "output": "he",
+        "model_output": "he"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "lucas is a musician and dancer and fae currently lives somewhere nearby.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the math teacher at my school is an american actor and fae is known for faer roles in film.",
+        "output": "fae",
+        "model_output": "fa"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "riley is an author of children's fantasy, best known for xir book that won several awards.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "the cellist in my orchestra is an american actor and xe is known for xir roles in film.",
+        "output": "xe",
+        "model_output": "xe"
+    },
+    {
+        "instruction": "What will be the pronoun of the antecedents?",
+        "input": "liam is an american actor and they are known for their roles in film.",
+        "output": "they",
+        "model_output": "they"
+    },
+    {
+        "total length": 720,
+        "correct": 606,
+        "accuracy": 84.16666666666667
+    }
+]
